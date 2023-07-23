@@ -1,10 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <h1 align="center" >
-    TaskMinder
+    Flipkart
 </h1>
 
-<h1 align="center">"Task and Project Management"  </h1>
+<h1 align="center">"Online shopping platform"  </h1>
 <h3 align="center">
 	<a href="https://celebrated-rabanadas-4e63d6.netlify.app/" target="_blank">Live URL</a>
 </h3>
