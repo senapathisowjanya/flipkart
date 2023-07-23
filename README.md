@@ -1,56 +1,62 @@
-<!-- PROJECT LOGO -->
+![Screenshot (328)](https://github.com/senapathisowjanya/flipkart/assets/119430125/21c9bd57-df63-4c78-9e15-8fce036f3947)<!-- PROJECT LOGO -->
 <br />
 <h1 align="center" >
     Flipkart
 </h1>
 
 <h1 align="center">"Online shopping platform"  </h1>
+
 <h3 align="center">
-	<a href="https://celebrated-rabanadas-4e63d6.netlify.app/" target="_blank">Live URL</a>
+	<a href="https://resilient-gaufre-31cc5b.netlify.app/" target="_blank">Live URL</a>
 </h3>
+<h2>Flipkart</h2>
+Welcome to the Flipkart Clone project! This repository houses a website that emulates the popular e-commerce platform, Flipkart. The goal of this project is to demonstrate web development skills and showcase the functionalities of Flipkart.
   
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+	  <li><a href="#Flipkart">Flipkart</a></li>
     <li>
-      <a href="#about-the-project">About The Project</a>
-<!--       <ul>
-        <li><a href="#built-with">Built With</a></li>
-          <li><a href="#tools-and-libraries">Tools And Libraries</a></li>
-      </ul> -->
-    </li>
-    <li><a href="#contributors">Contributors</a></li>
+      <a href="#about-the-project">About The Project</a></li>
+	  <li><a href="#Project-Overview">Project Overview</a></li>
+    <li><a href="#Glimpse ">Glimpse </a></li>
+	  <li><a href="#">Owner of Project</a></li>
   </ol>
 </details>
+<h2>## Folder Structure</h2>
+
+
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
-TaskMinder is an intuitive task and project management app designed specifically for individuals. With its user-friendly interface and powerful features, TaskMinder helps you stay organized, prioritize tasks, and easily track your progress. From personal to-do lists to complex projects, TaskMinder empowers you to efficiently manage your tasks and achieve your goals.
+## Project Overview
+This project is a web application built with HTML, CSS, JavaScript. It replicates the primary features and UI of the Flipkart e-commerce platform, allowing users to browse products, add items to their cart, and proceed to checkout.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style=' width:"90%"; margin: auto; padding: 23px; display: flex; gap: 18px;'> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/704/7959704-middle.png" alt="react" width="50" height="40"/> </a> <a href="https://openbase.com/js/slick-slider/documentation" target="_blank" rel="noreferrer"> <img src="https://gymove.dexignzone.com/react/welcome/images/icons/44.png" alt="react" width="50" height="40"/> </a>  <a href="https://app.cyclic.sh/#/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.NCU8PydXbTaszgAQ2xGNHwAAAA?w=279&h=175&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="react" width="50" height="40"/> </a><a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ypz_d6GL7n2nXfQnbw_ARAHaFj?w=195&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="react" width="50" height="40"/> </a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.WcRnU2ERqYHZBKBQ0zXCvgHaGs?w=188&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="react" width="50" height="40"/> </a></p>
+<ul>
+<li><a href="#">HTML</a></li>
+<li><a href="#">CSS</a></li>
+<li><a href="#">JAVASCRIPT</a></li>
+</ul>
 
 
 ## Contributors
 
-Sowjanya Senapathi(Team Lead)- [GitHub](https://github.com/senapathisowjanya)
-
-Roshan Kr Routh - [GitHub](https://github.com/RoshanAAS)
-
-Raz Bhagat - [GitHub](https://github.com/raz001) 
-
-Sourav Samanta - [GitHub]().
-
-Vishal Gupta - [GitHub](https://github.com/Vishal-Gupta07)
-
+Sowjanya Senapathi(Owner)- [GitHub](https://github.com/senapathisowjanya)
 
 
 ## Some Glimpse of our Cloned Website
 ## Glimpse of our Landing Page
-![Screenshot (288)](https://github.com/senapathisowjanya/truculent-face-1803/assets/119430125/5797b208-7483-41dc-9f63-88e7de7a3056)
 
 
-
+## Product Browsing: Browse a wide range of products available on the platform.
+![Screenshot (322)](https://github.com/senapathisowjanya/flipkart/assets/119430125/5a20eb30-59c1-4df0-bd65-f1306eea7c38)
+## Product Search: Search for specific products by name, category, or other attributes.
+![Screenshot (324)](https://github.com/senapathisowjanya/flipkart/assets/119430125/b25c3f93-ece1-450f-9a79-26589dbdb650)
+## Product Details: View detailed information about a particular product.
+![Screenshot (325)](https://github.com/senapathisowjanya/flipkart/assets/119430125/63fc7a09-9f8f-4605-9bb6-d3de6e6eeffe)
+## Shopping Cart: Add products to the cart and manage items in the cart.
+![Screenshot (327)](https://github.com/senapathisowjanya/flipkart/assets/119430125/bfa8a485-4d8f-4166-9d81-d85c17c1c64e)
+## Checkout: Proceed to checkout and complete the purchase.
+![Screenshot (328)](https://github.com/senapathisowjanya/flipkart/assets/119430125/f63ae6e4-082c-4591-837a-b7bc5e398acc)
