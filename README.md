@@ -24,7 +24,7 @@ Welcome to the Flipkart Clone project! This repository houses a website that emu
 	  <li><a href="#">Owner of Project</a></li>
   </ol>
 </details>
-<h2>## Folder Structure</h2>
+<!-- <h2>## Folder Structure</h2> -->
 
 
 
